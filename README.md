@@ -2,10 +2,10 @@
 [Schlegl, Thomas, et al. "Unsupervised anomaly detection with generative adversarial networks to guide marker discovery." International Conference on Information Processing in Medical Imaging. Springer, Cham, 2017.](https://arxiv.org/abs/1703.05921)
 
 ## Requirements
-Chainer, OpenCV, NumPy, Matplotlib
+Chainer, OpenCV, NumPy, Matplotlib, tqdm
 
 ```bash
-$ pip install chainer opencv-python numpy matplotlib
+$ pip install chainer opencv-python numpy matplotlib tqdm
 ```
 
 ## How to run
